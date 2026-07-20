@@ -1,31 +1,25 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
-
+# Upptime for Remy Castle products (Grok-managed)
+owner: RemyCastle
+repo: status
+"user-agent": Mozilla/5.0 (compatible; UpptimeBot/1.0; https://upptime.js.org)
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-
+  - name: CuePraxis
+    url: https://cuepraxis.onrender.com/login
+  - name: CuePraxis Home
+    url: https://cuepraxis.onrender.com/
+  - name: ChairSide
+    url: https://chairside-z8vp.onrender.com/
+  - name: ChairSide Demo
+    url: https://chairside-z8vp.onrender.com/demo
+assignees:
+  - RemyCastle
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  cname: false
+  name: Remy Product Status
+  introTitle: "Are Remy's apps up?"
+  introMessage: Uptime for CuePraxis and ChairSide. Auto-checked every 5 minutes via GitHub Actions.
   navbar:
     - title: Status
       href: /
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
+      href: https://github.com/RemyCastle/status
