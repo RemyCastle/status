@@ -13,10 +13,6 @@ sites:
     url: https://chairside-z8vp.onrender.com/
   - name: ChairSide Demo
     url: https://chairside-z8vp.onrender.com/demo
-  - name: CloseKeep
-    url: https://closekeep.onrender.com/
-  - name: CloseKeep Demo
-    url: https://closekeep.onrender.com/demo
 
 assignees:
   - RemyCastle
@@ -27,7 +23,7 @@ status-website:
   baseUrl: /status
   name: Remy Product Status
   introTitle: "Are Remy's apps up?"
-  introMessage: Uptime for CuePraxis, ChairSide, and CloseKeep. Checked via GitHub Actions.
+  introMessage: Uptime for CuePraxis and ChairSide. Checked via GitHub Actions.
   navbar:
     - title: Status
       href: /
