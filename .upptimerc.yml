@@ -13,6 +13,18 @@ sites:
     url: https://chairside-z8vp.onrender.com/
   - name: ChairSide Demo
     url: https://chairside-z8vp.onrender.com/demo
+  - name: Springfield PBC
+    url: https://springfieldpbc.com/
+  - name: Springfield PBC Shop
+    url: https://springfieldpbc.com/shop
+  - name: Patriotic Peptides
+    url: https://patriotic-peptides.onrender.com/
+  - name: Helix Bio Labs
+    url: https://helixbiolabs.spbc.workers.dev/
+  - name: CaseXCase
+    url: https://casexcase.onrender.com/
+  - name: Mini-app Demos
+    url: https://remy-miniapp-demos.pages.dev/
 
 assignees:
   - RemyCastle
@@ -23,7 +35,7 @@ status-website:
   baseUrl: /status
   name: Remy Product Status
   introTitle: "Are Remy's apps up?"
-  introMessage: Uptime for CuePraxis and ChairSide. Checked via GitHub Actions.
+  introMessage: Uptime for every live Remy Castle property. Checked via GitHub Actions.
   navbar:
     - title: Status
       href: /
