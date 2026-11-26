@@ -5,26 +5,12 @@ repo: status
 "user-agent": Mozilla/5.0 (compatible; UpptimeBot/1.0; +https://github.com/RemyCastle/status)
 
 sites:
-  - name: CuePraxis
-    url: https://cuepraxis.onrender.com/login
-  - name: CuePraxis Home
-    url: https://cuepraxis.onrender.com/
-  - name: ChairSide
-    url: https://chairside-z8vp.onrender.com/
-  - name: ChairSide Demo
-    url: https://chairside-z8vp.onrender.com/demo
   - name: Springfield PBC
     url: https://springfieldpbc.com/
   - name: Springfield PBC Shop
     url: https://springfieldpbc.com/shop
   - name: Patriotic Peptides
-    url: https://patriotic-peptides.onrender.com/
-  - name: Helix Bio Labs
-    url: https://helixbiolabs.spbc.workers.dev/
-  - name: CaseXCase
-    url: https://casexcase.onrender.com/
-  - name: Mini-app Demos
-    url: https://remy-miniapp-demos.pages.dev/
+    url: https://patrioticpeps.com/
 
 assignees:
   - RemyCastle
@@ -41,5 +27,5 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/RemyCastle/status
-    - title: CuePraxis
-      href: https://cuepraxis.onrender.com
+    - title: SPBC
+      href: https://springfieldpbc.com
